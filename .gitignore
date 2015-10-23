@@ -1,0 +1,10 @@
+rcov_tmp
+tmp
+pkg
+rdoc
+.zsh_rake_cache
+doc
+TAGS
+coverage
+*.gem
+Gemfile.lock
